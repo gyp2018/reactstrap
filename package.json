@@ -1,0 +1,8 @@
+{
+  "name": "reactstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gyp2018/reactstrap.git",
+  "author": "Phil <youngphil.gim@gmail.com>",
+  "license": "MIT"
+}
